@@ -1,0 +1,11 @@
+Customer: Sarah Chen
+Company: BrightPath Logistics
+
+Meeting notes:
+- Interested in reducing delivery delays
+- Wants better tracking visibility
+- Asked about pricing
+- Open to a follow-up meeting next week
+
+Goal:
+Schedule next meeting
