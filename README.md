@@ -12,3 +12,5 @@ A structured summary with key discussion points, action items, owners, and deadl
 
 ### Value
 This task is valuable because meeting notes are often messy and unstructured. Automating the summary saves time, reduces missed action items, and improves team coordination.
+
+## Video Link: https://vimeo.com/1180658924?share=copy&fl=sv&fe=ci
